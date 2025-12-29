@@ -1,6 +1,6 @@
 # GAD130-Final Project
 
-Hello Everyone! __Ayush Vaibhav Goyal__ (GameDevOverdose) here. GAD130 Level Design 1, taught by Professor Charles Cue, was a course that turned out to be more interesting than my expectations. Not because 
+Hello Everyone! __Ayush Vaibhav Goyal__ (GameDevOverdose) here. GAD130 Level Design 1, taught by Professor Charles Cue, was a course that turned out to be more interesting than my expectations. 
 
 # Getaway
 
